@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_android"
+        android:title="Android"
+        android:icon="@drawable/android_icon"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/item_egypt"
+        android:title="KeytoLIFE"
+        android:icon="@drawable/key_to_life_icon"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/item_fire"
+        android:title="Fire"
+        android:icon="@drawable/fire_icon"
+        app:showAsAction="ifRoom"/>
+</menu>
